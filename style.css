@@ -46,9 +46,16 @@ h2 {
   border: none;
   border-radius: 3px;
   padding: 10px 20px;
-  background-color: #2bb3b1;
   color: white;
   font-weight: 700;
+}
+
+.card1-btn {
+  background-color: #2bb3b1;
+}
+
+.card2-btn {
+  background-color: #7541c8;
 }
 
 .card-display button:hover {
