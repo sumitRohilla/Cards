@@ -4,7 +4,7 @@
 
 ## FRONT-END Based Project :
 
-• This is a learning project to improve understanding for mainly HTML, CSS flex box and designing.\
+• This is a learning project to improve understanding for mainly HTML, CSS flex box and designing.
 
 ## FRONT-END :
 
