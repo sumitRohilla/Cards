@@ -1,4 +1,4 @@
-# Learning - Generator
+# Learning - Card Design
 
 <a href="https://sumitrohilla.github.io/Cards/"><img src="https://img.shields.io/badge/-Website%20Link-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 
